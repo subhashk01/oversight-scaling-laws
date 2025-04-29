@@ -1,6 +1,6 @@
 # Scaling Laws For Scalable Oversight
 
-This repo contains the code to reproduce the plots for our paper [https://arxiv.org/abs/2504.18530](Scaling Laws For Scalable Oversight
+This repo contains the code to reproduce the plots for our paper [Scaling Laws For Scalable Oversight](https://arxiv.org/abs/2504.18530
 ).
 
 
