@@ -39,5 +39,25 @@ Let us know if anything does not work with this environment!
 
 ### Wargames
 
+Wargames plots can be created by running
+```
+cd wargames
+# You can run ./run_many_ai_control.sh many times to get more samples, though note that the script itself runs each game in parallel many times
+./run_many_ai_control.sh 
+./run_analyze_strategies.sh
+python3 analyze_ai_control.py
+python3 analyze_strategies.py
+```
+
+### Combined Plots
 
 ### Theory
+
+All theory plots can be plotted by running:
+
+```
+cd theory
+./experiment_with_optimal_strat.sh
+python3 plot_theory.py
+python3 git.py
+```
