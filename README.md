@@ -30,6 +30,10 @@ Let us know if anything does not work with this environment!
 
 
 ### Mafia
+```
+cd mafia
+./script.sh
+```
 
 ### Debate
 
@@ -37,7 +41,6 @@ Let us know if anything does not work with this environment!
 cd debate
 ./script.sh
 ```
-
 
 ### Backdoor Code
 
