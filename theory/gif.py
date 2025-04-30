@@ -275,7 +275,7 @@ def zigzag_bounce_grid(
 # (1, 2, -800, 1000),
 # (1, 3, -2000, 1000)
 param_sets = [
-    dict(monitor_slope=1, ai_slope=2, ai_intercept=400,  ai_g_elo=1200),
+    dict(monitor_slope=1, ai_slope=1, ai_intercept=400,  ai_g_elo=1200),
     dict(monitor_slope=1, ai_slope=1, ai_intercept=-200,  ai_g_elo=500),
     dict(monitor_slope=1, ai_slope=2, ai_intercept=-800, ai_g_elo=1000),
     dict(monitor_slope=1, ai_slope=3, ai_intercept=-2000, ai_g_elo=1000),
