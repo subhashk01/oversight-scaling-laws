@@ -33,6 +33,11 @@ Let us know if anything does not work with this environment!
 
 ### Debate
 
+```
+cd debate
+./script.sh
+```
+
 
 ### Backdoor Code
 
