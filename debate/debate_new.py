@@ -71,7 +71,7 @@ openrouter_api_key = os.getenv("OPENROUTER_API_KEY")
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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",
+    api_key=openrouter_api_key
 )
 
 #################################
